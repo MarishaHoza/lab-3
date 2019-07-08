@@ -73,7 +73,7 @@ footer {
   }
 }
 
-@media(min-width: 1500px){
+@media(min-width: 1024px){
   body * {
     background-color: rgb(70, 15, 50);
   }
