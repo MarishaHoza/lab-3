@@ -1,0 +1,39 @@
+body {
+  max-width: 480px;
+  margin: auto;
+  text-align: center;
+}
+
+@media(min-width: 768px){
+  body {
+    max-width: 960px;
+  }
+  main {
+    max-width: 760px;
+  }
+}
+
+header, aside, main * {
+  border: 1px solid #222;
+}
+
+main {
+  overflow: hidden;
+  width: 100%;
+}
+
+aside {
+  float: left;
+  width: 100%;
+}
+
+section {
+  float: left;
+  width: 100%;
+  overflow: hidden;
+}
+
+footer {
+  float: left;
+  width: 100%;
+}
