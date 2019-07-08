@@ -10,7 +10,7 @@ body {
 body * {
   border: 1px solid black;
   font-size: 40px;
-  color: white;
+  color: #eee;
 }
 
 header {
