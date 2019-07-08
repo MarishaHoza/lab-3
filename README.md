@@ -1,27 +1,21 @@
-# lab-01
-Code Fellows Seattle-301d57 lab 01
+# lab-03
+Code Fellows Seattle-301d57 lab 03
 
 
 ## Description:
-Mobile first wireframe with responsive design, SMACSS organization, and jQuery.
+Mobile first wireframe with responsive design, SMACSS organization, and CSS grid and Flex styles.
 
-This app will work with or without the JavaScript files.
+Find lab-1 here: [https://github.com/MarishaHoza/lab-01](https://github.com/MarishaHoza/lab-01)
 
-#### Without JS:
-* The site is responsive, and changes between two pre-set colorways for mobile or desktop
-#### With JS & jQuery:
-* The site is responsive, and assigns random colors to each page element each time the page width switches between the mobile and desktop views.
+### Feature #1: Responsive design
+* As a user, I want the dimensions and colors of the application to change so that I can have a unique view in desktop, mobile, and tablet viewports.
+
+1. Use Flexbox or CSS grids for styling this application.
+2. Use relative units so the elements scale proportionally when the viewport dimensions change.
+3. Use at least two breakpoints and change the background colors of each box. There should be three possible views: desktop, tablet, and mobile device. You may choose the exact pixel values for each breakpoint.
 
 
 ### Resources:
-How to do a calculation within CSS was found at:
-https://css-tricks.com/keep-math-in-the-css/
-
 SMACSS docs:
 http://smacss.com/
 
-jQuery window on resize:
-https://stackoverflow.com/questions/9828831/jquery-on-window-resize
-
-jQuery .each:
-Steve Grant
