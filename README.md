@@ -3,9 +3,12 @@ Code Fellows Seattle-301d57 lab 03
 
 
 ## Description:
-Mobile first wireframe with responsive design, SMACSS organization, and CSS grid and Flex styles.
+Mobile first wireframe with responsive design, and the option for CSS grid and Flex styles.
 
 Find lab-1 here: [https://github.com/MarishaHoza/lab-01](https://github.com/MarishaHoza/lab-01)
+
+## Use:
+This application will open with the flex style sheet linked. To change to the grid style sheet, uncomment line 10 of index.html and comment out line 9.
 
 ### Feature #1: Responsive design
 * As a user, I want the dimensions and colors of the application to change so that I can have a unique view in desktop, mobile, and tablet viewports.
