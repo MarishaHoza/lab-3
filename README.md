@@ -3,7 +3,7 @@ Code Fellows Seattle-301d57 lab 03
 
 
 ## Description:
-Mobile first wireframe with responsive design, SMACSS organization, and CSS grid and Flex styles.
+Mobile first wireframe with responsive design, and the option for CSS grid and Flex styles.
 
 Find lab-1 here: [https://github.com/MarishaHoza/lab-01](https://github.com/MarishaHoza/lab-01)
 
